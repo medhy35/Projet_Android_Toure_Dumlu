@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hava Durumu Uygulaması</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_detail">Detay Etkinliği</string>
+    <string name="title_activity_settings">Ayarlar</string>
+    <string name="snackupdate">Hava durumu güncellendi</string>
+    <string name="placeexist"> Eklendi</string>
+    <string name="clickat">tıklayın</string>
+    <string name="lclickat">uzun tıklayın</string>
+    <string name="deletecity">Bu şehri sil?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayir</string>
+    <string name="cities">Paris</string>
+    <string name="gpson">Lütfen GPS ayarını açınız!</string>
+    <string name="haup">zaten var.</string>
+    <string name="ycl">Geçerli konumunuz </string>
+    <string name="errorgoogle">Google Play Hizmetleri mevcut değil:</string>
+    <string name="fr">Fransızca</string>
+    <string name="en">Ingilizce</string>
+    <string name="tr">Turk</string>
+    <string name="next">Devam et</string>
+    <string name="chooselang">Bir dil seçin</string>
+    <string name="tempmax">en yuksek sicaklik</string>
+    <string name="tempdown">sıcaklığa düştüğünde</string>
+    <string name="chweat">Gelecek hafta hava sürekli değişiyor </string>
+    <string name="nextweek"> en çok 7 gün içinde</string>
+    <string name="sevenday">hafta boyunca</string>
+
+
+
+    <string name="Pressure">Pressure: </string>
+    <string name="precipitation">Precipitation: </string>
+    <string name="humdi">Humidity : </string>
+    <string name="wind">Wind : </string>
+    <string name="lastup">Last update :</string>
+
+
+
+    <string-array name="pref_example_list_titles">
+        <item>Her zaman</item>
+        <item>Mümkün olunca</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Veri ve amp; senkronize etmek</string>
+
+    <string name="pref_title_sync_frequency">Senkron frekansı</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>3 saat</item>
+        <item>6 saat</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">Sistem senkronizasyon ayarları</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Bildirimler</string>
+
+    <string name="pref_title_new_message_notifications">Yeni mesaj bildirimleri</string>
+
+    <string name="pref_title_ringtone">Zil</string>
+    <string name="pref_ringtone_silent">Sessiz</string>
+
+    <string name="pref_title_vibrate">Titresim</string>
+    <string name="pref_units_label">Sıcaklık birimi</string>
+    <string name="pref_units_key">birimler</string>
+    <string name="pref_units_metric">ölçümler</string>
+    <string name="pref_units_imperial">imparatorluk</string>
+    <string name="pref_units_label_metric">ölçümler</string>
+    <string name="pref_units_label_imperial">imparatorluk</string>
+
+    <string name="pref_preunits_label">Yağış Ünitesi</string>
+    <string name="pref_preunits_key">ön birim</string>
+    <string name="pref_preunits_cm">santimetre</string>
+    <string name="pref_preunits_inch">inç</string>
+    <string name="pref_preunits_label_cm">santimetre</string>
+    <string name="pref_preunits_label_inch">inç</string>
+
+    <string name="pref_windunits_label">Rüzgar hızı ünitesi</string>
+    <string name="pref_windunits_key">rüzgar üniteleri</string>
+    <string name="pref_windunits_mph">mph</string>
+    <string name="pref_windunits_kph">kph</string>
+    <string name="pref_windunits_label_mph">Mph</string>
+    <string name="pref_windunits_label_kph">Kph</string>
+
+
+</resources>
